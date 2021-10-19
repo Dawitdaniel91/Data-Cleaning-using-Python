@@ -45,13 +45,13 @@ This steps helps us how the missing value affect our data analysis. we have to k
 
 # Clean dataset
 
-### Table 6
+### Table 5
 
 ![image](https://user-images.githubusercontent.com/80365882/137972105-a84358e1-2e68-4f2b-b8bb-e6c0b873ab8c.png)
 
 # Printing Percentage of Orginal Dataset and Clean dataset
 
-### Table 7
+### Table 6
 
 ![image](https://user-images.githubusercontent.com/80365882/137972310-072bc273-5613-47bc-baa4-e6d14d460ae4.png)
 
