@@ -7,7 +7,7 @@ Data Sources: https://www.kaggle.com/aparnashastry/building-permit-applications-
 
 ![image](https://user-images.githubusercontent.com/80365882/137971507-889e2eaa-6906-4abe-ac59-73c2ab19060c.png)
 
-### Step 1 git the number of missing value
+### Step 1 get the number of missing value
 
 to get the missing value, use the code isnull().sum()
 
