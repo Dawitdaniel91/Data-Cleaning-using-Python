@@ -32,7 +32,7 @@ This steps helps us how the missing value affect our data analysis. we have to k
 
 ### Step 4 remove all the rows that contain a missing value
 
-### Table 4
+### Table 4: Clean data
 
 ![image](https://user-images.githubusercontent.com/80365882/137971684-87b75ff9-7e32-4a11-a661-d1119acbd893.png)
 
