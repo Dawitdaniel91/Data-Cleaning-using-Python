@@ -11,7 +11,6 @@ Data Sources: https://www.kaggle.com/aparnashastry/building-permit-applications-
 
 to get the missing value, use the code isnull().sum()
 
-### Table 2
 
 ![image](https://user-images.githubusercontent.com/80365882/137971566-46949cc8-5bcd-4cfc-a00b-fa12b6c49d43.png)
 
@@ -19,7 +18,7 @@ it looks like a lot of missing value in the dataset. So, we have to see how much
 
 ### Step 2 how many percent is the missing value
 
-### Table 3
+### Table 2
 
 ![image](https://user-images.githubusercontent.com/80365882/137971618-1480a6e6-57bb-4e60-b17b-7c169d4b007b.png)
 
@@ -32,14 +31,14 @@ This steps helps us how the missing value affect our data analysis. we have to k
 
 ### Step 4 remove all the rows that contain a missing value
 
-### Table 4: Clean data
+### Table 3: Clean data
 
 ![image](https://user-images.githubusercontent.com/80365882/137971684-87b75ff9-7e32-4a11-a661-d1119acbd893.png)
 
 
 ### Step 5 Check how much data we lose
 
-### Table 5
+### Table 4
 
 ![image](https://user-images.githubusercontent.com/80365882/137971916-468fe7d1-c9eb-40d5-95af-e1dbc20c9683.png)
 
