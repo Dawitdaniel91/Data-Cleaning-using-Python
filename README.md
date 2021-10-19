@@ -39,6 +39,8 @@ This steps helps us how the missing value affect our data analysis. we have to k
 
 ### Table 5
 
+![image](https://user-images.githubusercontent.com/80365882/137971916-468fe7d1-c9eb-40d5-95af-e1dbc20c9683.png)
+
 
 
 
