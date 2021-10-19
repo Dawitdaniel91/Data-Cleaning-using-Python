@@ -1,6 +1,8 @@
 # Data-Cleaning-using-Python
 The Project is handling the missing value using Python. The first thing is load the libraries and the dataset.Then, get an idea of what's going on with the data. In this case, I'm looking to see if I see any missing values, which will be reprsented with NaN or None.It helps me to identify the dataset within NaN or none value.Yes, it looks like missing value in the dataset below the table
 
+Data Sources: https://www.kaggle.com/aparnashastry/building-permit-applications-data
+
 ### Table 1
 
 ![image](https://user-images.githubusercontent.com/80365882/137971507-889e2eaa-6906-4abe-ac59-73c2ab19060c.png)
