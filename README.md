@@ -1,5 +1,5 @@
 # Data-Cleaning-using-Python
-The Project is handling the missing value using Python. The first thing is load the libraries and the dataset.Then, get an idea of what's going on with the data. In this case, I'm looking to see if I see any missing values, which will be reprsented with NaN or None.It helps me to identify the dataset within NaN or none value.Yes, it looks like missing value in the dataset below the table
+TThe Project is handling the missing value using Python. The first thing is to load the libraries and the dataset. Then, get an idea of what's going on with the data. In this case, I'm looking to see if I see any missing values, which will be represented with Nan or None. It helps me to identify the dataset within Nan or none value. Yes, it looks like a missing value in the dataset below the table
 
 Data Sources: https://www.kaggle.com/aparnashastry/building-permit-applications-data
 
